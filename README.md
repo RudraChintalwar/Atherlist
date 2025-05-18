@@ -128,6 +128,6 @@ yarn test:coverage
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-```<div align="center"> <h3>💫 May Your Tasks Forever Orbit in Harmony</h3> <p>Launch into productivity with purpose and peace. <br> Powered by the cosmos. 🛸</p> <img src="https://media.giphy.com/media/xT1R9rGWpFmhxN5Udy/giphy.gif" width="250" alt="Orbiting Productivity"> </div> ```
+<div align="center"> <h3>💫 May Your Tasks Forever Orbit in Harmony</h3> <p>Launch into productivity with purpose and peace. <br> Powered by the cosmos. 🛸</p> <img src="https://media.giphy.com/media/xT1R9rGWpFmhxN5Udy/giphy.gif" width="250" alt="Orbiting Productivity"> </div> ```
 
 
